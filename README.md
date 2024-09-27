@@ -1,2 +1,3 @@
-# my_first_LLM
-Alura - Google
+#my_first_LLM
+
+#Alura_Google
